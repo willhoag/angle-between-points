@@ -1,0 +1,39 @@
+{
+  "name": "angle-between-points",
+  "version": "0.0.0",
+  "description": "given two points, it returns the angle in degrees between them",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/willhoag/angle-between-points.git"
+  },
+  "bugs": {
+    "url": "https://github.com/willhoag/angle-between-points/issues"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "compute-rad2deg": "^1.0.0"
+  },
+  "devDependencies": {
+    "chai": "^1.10.0",
+    "mocha": "^2.0.1"
+  },
+  "scripts": {
+    "test": "./node_modules/.bin/mocha"
+  },
+  "keywords": [
+    "angle",
+    "trigonometry",
+    "degrees",
+    "radians",
+    "points"
+  ],
+  "author": {
+    "name": "Will Hoag",
+    "email": "dev@willhoag.com",
+    "url": "https://github.com/willhoag"
+  },
+  "license": "MIT"
+}
