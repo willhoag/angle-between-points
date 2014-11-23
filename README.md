@@ -12,7 +12,7 @@ EXAMPLE
 ---
 
 ```js
-var angleBetweenPoints = require('./');
+var angleBetweenPoints = require('angle-between-points');
 
 angleBetweenPoints(
   {x: 1, y: 1},
