@@ -1,6 +1,6 @@
 {
   "name": "angle-between-points",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "given two points, it returns the angle in degrees between them",
   "main": "index.js",
   "repository": {
