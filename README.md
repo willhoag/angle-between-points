@@ -2,6 +2,7 @@ angle-between-points
 =====
 
 [![NPM](https://nodei.co/npm/angle-between-points.png)](https://nodei.co/npm/angle-between-points/)
+[![build status](https://secure.travis-ci.org/willhoag/angle-between-points.png)](http://travis-ci.org/willhoag/angle-between-points)
 
 Given two points, it returns the angle in degrees from one to the other.
 
